@@ -1,0 +1,2 @@
+# block-chain-crypto
+Bitcoin mining is often thought of as the way to create new bitcoins. But that's really just a secondary purpose. The primary importance of mining is to ensure that all participants have a consistent view of the Bitcoin data. Because Bitcoin is a distributed peer-to-peer system, there is no central database that keeps track of who owns bitcoins. Instead, the log of all transactions is distributed across the network. 
